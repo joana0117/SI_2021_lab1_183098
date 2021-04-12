@@ -1,0 +1,5 @@
+git
+touch
+nano
+branch
+push
